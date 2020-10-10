@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0, 24/7 Digital Concert Hall
-http://m3ukodi.com/canales/digitalconcerthall.php?a=247
 #EXTINF:0, TV Cosmos
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 #EXTINF:1422,* Fluxus.tv
